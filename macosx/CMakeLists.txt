@@ -200,7 +200,6 @@ set(${PROJECT_NAME}_RESOURCES
     Credits.rtf
     sparkle_dsa_pub.pem
     ../COPYING
-    Images/Transmission.icns
     Images/TransmissionDocument.icns
 )
 
